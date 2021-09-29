@@ -1,0 +1,77 @@
+/* -----HOME----- */
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+    background-color: #5fb759;
+    color: white;
+}
+.logo{
+    color: #fff;
+    font-weight: 800;
+    font-size: 2rem;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    display: inline-block;
+    padding: .8rem 1rem;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.fa-arrow-alt-circle-down{
+    margin-left: 50vw;
+}
+/* -----ABOUT----- */
+.title-about{
+    margin-top: 8vh;
+}
+.text-color-green{
+    color: #5fb759;
+}
+.text-bold-black{
+    font-size: 2.5rem;
+    font-weight: 800;
+    width: 38vw;
+}
+.word{
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+.sec-about{
+    display: flex;
+    justify-content: space-around;
+}
+.icon{
+    display: flex; 
+    margin-top: 10vh;
+}
+.element-icon-{
+    margin-left: 5vw;
+}
+.art-about-para{
+    width: 50vw;
+}
+button{
+    margin-top: 2rem;
+    background-color: #5fb759;
+    color: #fff;
+    padding: 15px;
+    border: none;
+    border-radius: 25px;
+}
+
+hr{
+    margin-top: 15vh;
+    border: 2px solid #f7f7f7;
+}
+
+/* -----PROJECTS----- */
+.features-item{
+    margin-top: 8vh;
+    display: flex;
+}
+/* -----DROP DOWN----- */
